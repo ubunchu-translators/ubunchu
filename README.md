@@ -1,14 +1,18 @@
 # ubunchu
-A manga featuring Ubuntu, written and drawn by Hiroshi Seo and published by ASCII MEDIA WORKS Inc.
+A manga featuring Ubuntu, written and drawn by Hiroshi Seo (Seotch) and published by ASCII MEDIA WORKS Inc.
 
-
+* Licence: [Creative Commons: Attribution – Non-Commcercial](http://creativecommons.org/licenses/by-nc/3.0/)
 
 ## Links 
+Official Author Website (English): https://seotch.wordpress.com/ubunchu/
 
-Original Author Website: https://seotch.wordpress.com/ubunchu/
+Official Author Website (Japanese): http://www.aerialline.com/comics/ubunchu/ 
 
-Translation Group: http://groups.google.com/group/ubunchu-translators
+### Translation Websites:
+* Translation Group: http://groups.google.com/group/ubunchu-translators
+* Old Translations Website: http://divajutta.com/doctormo/ubunchu/
 
-Old Website: http://divajutta.com/doctormo/ubunchu/
-
-Licence: [Creative Commons: Attribution – Non-Commcercial](http://creativecommons.org/licenses/by-nc/3.0/)
+### Reference Sites:
+* ASCII MEDIA WORKS Inc. http://www.ascii.co.jp/
+* "SAKUSAKU UBUNTU!" http://ascii.asciimw.jp/books/books/detail/978-4-04-867924-4.shtml
+* "Ubuntu Magazine Japan" http://ubuntu.asciimw.jp/
