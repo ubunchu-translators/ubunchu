@@ -1,0 +1,44 @@
+"Ubunchu!" episode.2 "Let's play CUI with Gnomes!"
+
+This manga(Japanese comic) first appeared in "KANTAN UBUNTU! 2",a magazine book published by ASCII MEDIA WORKS Inc. It is now open to the public by Hiroshi Seo,the auther of the manga,with the publisher's consent.
+
+We release it under a Creative Commons: Attribution - NonCommcercial license.
+(http://creativecommons.org/licenses/by-nc/3.0/)
+
+That is to say, You are free to copy, distribute,transmit and adapt the work under the following conditions:
+
+(1) You must attribute the work in the manner specified by the author.
+(2) You may not use this work for commercial purposes.
+
+We hope you enjoy it!
+
+2009.5.26 Seotch (Hiroshi Seo)
+
+
+# CREDIT:
+Author: Hiroshi Seo
+Publisher: ASCII MEDIA WORKS Inc.
+Printed in: "KANTAN UBUNTU! 2"
+
+# Official Sites:
+Aerial Line: http://seotch.wordpress.com/ubunchu/ (English)
+Kaku-sen: http://www.aerialline.com/comics/ubunchu/ (Japanese)
+
+# Refferential Sites:
+ASCII MEDIA WORKS Inc. http://www.ascii.co.jp/
+"KANTAN UBUNTU! 2" http://ascii.asciimw.jp/books/books/detail/978-4-04-867290-0.shtml
+Creative Commons http://creativecommons.org/
+
+# ChangeLog
+Version 1.0.2 (2009-05-29)
+	Page10: Retouched borders and graphics which are unintentionally left blank
+	Page10: Separated a merged text and balloon in the source
+
+Version 1.0.1 (2009-05-27)
+	Page0: Added a credit page.
+	Page1: Changed the logo image from scan data to original vector data.
+	Page1: Corrected the magazine name.
+
+Version 1.0.0 (2009-05-26)
+	The first public version.
+

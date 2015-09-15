@@ -1,0 +1,36 @@
+"Ubunchu!" episode.4 "Three Rabits"
+
+This manga(Japanese comic) firstly appeared in "SAKUSAKU UBUNTU!",a magazine book published by ASCII MEDIA WORKS Inc. It is now open to the public by Hiroshi Seo,the auther of the manga,with the publisher's consent.
+
+We release it under a Creative Commons: Attribution - NonCommcercial license.
+(http://creativecommons.org/licenses/by-nc/3.0/)
+
+That is to say, You are free to copy, distribute,transmit and adapt the work under the following conditions:
+
+(1) You must attribute the work in the manner specified by the author.
+(2) You may not use this work for commercial purposes.
+
+We hope you enjoy it!
+
+2009.11.30 Seotch (Hiroshi Seo)
+
+
+# CREDIT:
+Author: Hiroshi Seo
+Publisher: ASCII MEDIA WORKS Inc.
+Printed in: "RAKUCHIN UBUNTU!"
+
+# Official Sites:
+Aerial Line: http://seotch.wordpress.com/ubunchu/ (English)
+Kaku-sen: http://www.aerialline.com/comics/ubunchu/ (Japanese)
+
+# Refferential Sites:
+ASCII MEDIA WORKS Inc. http://www.ascii.co.jp/
+"SAKUSAKU UBUNTU!" http://ascii.asciimw.jp/books/books/detail/978-4-04-867924-4.shtml
+"Ubuntu Magazine Japan" http://ubuntu.asciimw.jp/
+Creative Commons http://creativecommons.org/
+
+# ChangeLog
+Version 1.0.0 (2009-11-30)
+	The first public version.
+

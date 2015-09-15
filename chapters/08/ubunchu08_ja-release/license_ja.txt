@@ -1,0 +1,38 @@
+『うぶんちゅ！』第８話　「今日はもうムーしましたか？」
+
+　この漫画は、株式会社アスキー･メディアワークス発行『Ubuntu Magazine Japan』に掲載された作品です。著作者である瀬尾浩史が出版元の了解を得て、インターネット上で公開させて頂くことになりました。
+
+　この作品は、「表示-非営利 2.1 日本」を条件とするクリエイティブ・コモンズ・ライセンスの下で配布されています(http://creativecommons.org/licenses/by-nc/2.1/jp/)。
+
+　すなわち、
+
+　(1)原著作者のクレジットを表示する。
+　(2)作品を営利目的では使用しない。
+
+　上記の二つの条件に従う場合に限り、本作品を自由に複製、頒布、展示し、さらに二次的著作物を作成することができます。
+
+　非常に短い作品ですが、お楽しみいただければ幸いです。
+　
+　2011年05月26日　瀬尾　浩史
+
+
+【クレジット】
+著作:瀬尾 浩史 
+初出:『Ubuntu Magazine Japan vol.04』 アスキー･メディアワークス発行
+
+【公式サイト】
+・架空線: http://www.aerialline.com/comics/ubunchu/ (日本語)
+・Aerial Line:  http://seotch.wordpress.com/ubunchu/ (英語)
+
+【参考サイト】
+・株式会社アスキー･メディアワークス http://www.ascii.co.jp/
+・『Ubuntu Magazine Japan』http://ubuntu.asciimw.jp/
+・Creative Commons Japan http://creativecommons.jp/
+
+【ChangeLog】
+Version 1.0.0 (2011-05-26)
+・日本語版最初の正式公開
+
+
+
+
