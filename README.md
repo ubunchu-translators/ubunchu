@@ -1,3 +1,5 @@
+# WE HAVE MOVED HERE: https://gitlab.com/ubunchu-translators/ubunchu
+
 # ubunchu
 A manga featuring Ubuntu, written and drawn by Hiroshi Seo (Seotch) and published by ASCII MEDIA WORKS Inc.
 
